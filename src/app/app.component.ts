@@ -11,7 +11,10 @@ import { RouterOutlet } from '@angular/router';
 export class AppComponent {
   title = 'Aula12';
 
-  desabilitado: boolean = true;
+
+  // desabilitado: boolean = true;
+
+  imageUrl: String = "https://fastly.picsum.photos/id/1/200/200.jpg?hmac=jZB9EZ0Vtzq-BZSmo7JKBBKJLW46nntxq79VMkCiBG8"
 
 
 }
